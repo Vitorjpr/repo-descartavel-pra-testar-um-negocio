@@ -1,1 +1,1 @@
-staging/soft-link.txt
+../staging/soft-link.txt
