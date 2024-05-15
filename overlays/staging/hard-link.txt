@@ -1,1 +1,2 @@
 this is a hard linked file
+after i edited it
